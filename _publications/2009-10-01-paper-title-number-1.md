@@ -1,13 +1,36 @@
 ---
-title: "Paper Title Number 1"
+title: "AUPE: Collaborative Byzantine fault-tolerant peer-sampling"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'Peer sampling is a crucial primitive in distributed
+systems, used to manage overlays and disseminate information in
+large-scale scenarios such as permissionless blockchain systems.
+Its purpose is to maintain and regularly update a local and
+partial snapshot, or view, of the complete system’s membership.
+These protocols are often targeted by malicious actors who
+aim to disrupt higher-level protocols. Typically, an adversary
+who controls a set of Byzantine nodes attempts to manipulate
+how legitimate nodes perceive the presence of Byzantine ones
+by increasing their representation in the view of honest nodes.
+While state-of-the-art Byzantine-tolerant peer sampling protocols
+mitigate this bias, their effectiveness decreases significantly as
+the number of malicious nodes increases. This paper introduces
+AUPE, the first collaborative Byzantine-tolerant peer sampling
+protocol that leverages the presence of trusted nodes, such as
+Intel’s SGX capable devices, to collaboratively track the spread
+of identifiers in the system and locally debias the representation
+of Byzantine nodes. Simulations with 10,000 nodes demonstrate
+that AUPE outperforms state-of-the-art solutions, achieving near-
+perfect resilience even when faced with an adversary controlling
+26% of the nodes. Overall, by including as few as 10% of trusted
+nodes, AUPE increases the tolerance of B RAHMS by up to 60%
+while limiting the impact of the adversary’s attack, even when
+possessing up to 40% of the nodes.'
+date: 2024-10-24
+venue: 'NCA conference'
+slidesurl: 'https://djadar.github.io/augustamukam/files/slides1.pdf'
+paperurl: 'https://djadar.github.io/augustamukam/files/Aupepresentation.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
