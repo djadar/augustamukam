@@ -40,21 +40,21 @@ Professional experience
 Intern, Digital Power Team, Schneider Electric, France
 ------ 
 
-*02/22 - 08/22*
+*02/22-08/22*
 
 During this internship, I implemented secure storage solutions on Am65xx devices. This involved using TrustZone with OpTEE for secure storages based on the Linux filesystem and RPMB on eMMC. Additionally, I integrated the Trusted Platform Module (TPM) on equipements to enhance the security of cryptographic operations, such as RSA and ECDSA, and to secure TLS communication.
 
 Research Intern, LIP team, ENS Lyon, France
 ------ 
 
-*03/21 - 09/21*
+*03/21-09/21*
 
 Design of memory buffer protection policies using Intel SubPage Write Protection (SPP). This included identifying the causes of buffer overflows documented over the past 12 years and implementing SPP management functions within the XEN hypervisor.
 
 Research Intern, LIP team, ENS Lyon, France
 ------ 
 
-*07/20 - 09/20*
+*07/20-09/20*
 
 I modified the notification mechanisms within the QEMU-KVM distributed system. Additionally, I defined an ioctl in the KVM hypervisor and implemented a method to transfer data from userspace to kernel space.
 
