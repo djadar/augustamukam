@@ -11,19 +11,20 @@ redirect_from:
 
 Education
 ======
+
 Ph.D in Distributed Systems applied to Blockchains, University of Bordeaux
 ------ 
 
 *2022-2025 (ongoing)*
+
 Main idea: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains
 
-Master of Science in Informatics at Grenoble(MoSiG), Distributed systems, Ensimag, 2022
+Master of Science in Informatics at Grenoble(MoSiG), Distributed systems, Ensimag
 ------
 
 *2021-2022*
 
 Relevant Topics: Distributed systems, Cloud computing 
-
 
 Engineer Degree Dimploma, National Advanced School of Engineering of Yaounde, Department of Computer Science, 2021
 ------
@@ -31,7 +32,6 @@ Engineer Degree Dimploma, National Advanced School of Engineering of Yaounde, De
 *2016-2021*
 
 Relevant Topics: Programming, Algorithms, security
-
 
 
 Professional experience
@@ -61,7 +61,7 @@ I modified the notification mechanisms within the QEMU-KVM distributed system. A
 Skills
 ======
 * Programming
-  * C , Python, C++, Java, JavaScript, HTML, CSS, Rust, Cuda, R
+  * Rust, Go, C , Python, C++, Java, JavaScript, HTML, CSS, Cuda, R
 
 * IT 
   * MATLAB, Microsoft office tools, Latex;   MySQL, MariaDB 
