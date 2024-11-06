@@ -8,6 +8,7 @@ date: 2023-09-01
 location: "Talence, France"
 ---
 
+Courses:
 * Imperative Programming
 * Introduction to Operating Systems (with integrated lessons)
 * Network Programming
