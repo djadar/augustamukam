@@ -6,7 +6,7 @@ permalink: /publication/2023-07-06-protocol-Compas
 excerpt: 'Les blockchains sont des systèmes distribués avec des contraintes propres à satisfaire. Il faut par exemple s’assurer que les nœuds du système aient un état à jour dans des délais opportun, mais aussi que l’intégrité voir de la confidentialité des données soit préservée. '
 date: 2023-07-06
 venue: 'Compas'
-comment: 'Poster presentation'
+comment: 'Poster presentation, held in Annecy, France'
 slidesurl: 'https://djadar.github.io/augustamukam/files/final_poster_Compas.pdf'
 paperurl: 'https://djadar.github.io/augustamukam/files/Compas_2023_resume.pdf'
 citation: 'Augusta Mukam, Joachim Bruneau-Queyreix, Laurent Réveillère. Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines, juillet 2023, Annecy, France.'
