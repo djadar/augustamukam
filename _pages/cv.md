@@ -38,6 +38,8 @@ Ph.D in Distributed Systems applied to Blockchains, University of Bordeaux
 Main idea: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains
 
 Intern, Digital Power Team, Schneider Electric, France
+
+Technical tools: g5k, Anisble, EnosLib, Rust, Go, r 
 ------ 
 
 *02/22 – 08/22*
@@ -62,6 +64,7 @@ Skills
 ======
 * Programming
   * Rust, Go, C , Python, C++, Java, JavaScript, HTML, CSS, Cuda, R
+  * g5k, Anisble, EnosLib
 
 * IT 
   * MATLAB, Microsoft office tools, Latex;   MySQL, MariaDB 
