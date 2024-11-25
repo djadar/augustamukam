@@ -35,11 +35,10 @@ Ph.D in Distributed Systems applied to Blockchains, University of Bordeaux
 
 *2022 – current*
 
-Main idea: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains
+Main idea: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains.
+Technical tools: g5k, Anisble, EnosLib, Rust, Go, R language
 
-Intern, Digital Power Team, Schneider Electric, France
-
-Technical tools: g5k, Anisble, EnosLib, Rust, Go, r 
+Intern, Digital Power Team, Schneider Electric, France 
 ------ 
 
 *02/22 – 08/22*
