@@ -66,7 +66,7 @@ Design of memory buffer protection policies using Intel SubPage Write Protection
 
 I modified the notification mechanisms within the QEMU-KVM distributed system. Additionally, I defined an ioctl in the KVM hypervisor and implemented a method to transfer data from userspace to kernel space.
 
-</u>Supervisors</u>: <a href="https://lig-membres.imag.fr/tchanaa/index.html">Alain TCHANA</a>
+<u>Supervisors</u>: <a href="https://lig-membres.imag.fr/tchanaa/index.html">Alain TCHANA</a>
 
 Skills
 ======
