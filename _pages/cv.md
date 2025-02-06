@@ -58,7 +58,7 @@ During this internship, I implemented secure storage solutions on Am65xx devices
 
 Design of memory buffer protection policies using Intel SubPage Write Protection (SPP). This included identifying the causes of buffer overflows documented over the past 12 years and implementing SPP management functions within the XEN hypervisor.
 
-</u>Supervisors</u>: <a href="https://lig-membres.imag.fr/tchanaa/index.html">Alain TCHANA</a> and <a href="https://sites.google.com/view/stellabi/accueil?authuser=0">Stella BITCHEBE</a>.
+<u>Supervisors</u>: <a href="https://lig-membres.imag.fr/tchanaa/index.html">Alain TCHANA</a> and <a href="https://sites.google.com/view/stellabi/accueil?authuser=0">Stella BITCHEBE</a>.
 
 ## Research Intern, LIP team, ENS Lyon, France
 
