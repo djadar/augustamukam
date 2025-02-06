@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<p style="text-decoration:underline;"><a href="https://docs.google.com/document/d/1m4zhpRM_5-rj8YgwfB52hhWrAiGJ3-Iy_BgdmjkH4n4/edit?tab=t.0">Download online CV</a></p>
 
 {% include base_path %}
 
@@ -35,7 +36,19 @@ Ph.D in Distributed Systems applied to Blockchains, University of Bordeaux
 
 *2022 – current*
 
-Main idea: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains.
+Main idea: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains. 
+
+My research focuses on designing a **Byzantine fault-tolerant peer sampling protocol** to improve the resilience of distributed systems. 
+
+My first contribution is a collaborative protocol that uses SGX-enabled devices to provide a trusted execution environment that enables secure and verifiable collaboration between peers.  
+One of the key achievements of this work is a **60% increase in fault tolerance** compared to existing protocols. Even in the presence of an adversary controlling up to **40% of the system nodes**, our approach effectively limits their impact, ensuring robust and reliable operation.  
+
+Scalability is also a key aspect of my research. By using **hash-based techniques** to efficiently track element frequencies, we design new protocols that have the hability to maintain high performance with **minimal memory overhead**, making them well suited for large-scale distributed systems.  
+
+Our overall work contributes to the advancement of secure and efficient peer-to-peer protocols, with potential applications in blockchain networks, decentralised computing and beyond.  
+
+Supervisors: Laurent Réveillère and Joachim Bruneau-Queyreix.
+
 Technical tools: g5k, Anisble, EnosLib, Rust, Go, R language
 
 Intern, Digital Power Team, Schneider Electric, France 
@@ -52,12 +65,16 @@ Research Intern, Laboratoire de l'Informatique du Parallélisme (LIP), ENS Lyon,
 
 Design of memory buffer protection policies using Intel SubPage Write Protection (SPP). This included identifying the causes of buffer overflows documented over the past 12 years and implementing SPP management functions within the XEN hypervisor.
 
+Supervisors: Alain TCHANA, Stella BITCHEBE.
+
 Research Intern, LIP team, ENS Lyon, France
 ------ 
 
 *07/20 – 09/20*
 
 I modified the notification mechanisms within the QEMU-KVM distributed system. Additionally, I defined an ioctl in the KVM hypervisor and implemented a method to transfer data from userspace to kernel space.
+
+Supervisors: Alain TCHANA
 
 Skills
 ======
