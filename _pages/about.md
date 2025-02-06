@@ -13,6 +13,6 @@ I am also interested in areas such as security, artificial intelligence, softwar
 
 I hold an Engineering degree in Computer Science from ENSPY, Yaounde, Cameroon and a Master's degree in Cloud and Distributed Systems from Grenoble INP, ENSIMAG - Grenoble, France. 
 
-I am currently pursuing a PhD in cloud computing applied to blockchain technology in the <a href="https://www.labri.fr/programmation-reseaux-et-systemes">Progress team </a> at the University of Bordeaux, Bordeaux, France. The two topics I am working on during this thesis are: improving the tolerance of peer sampling protocols to Byzantine attacks in blockchains; finding the occurrence of elements in memory-constrained systems in real time.
+I am currently pursuing a PhD in cloud computing applied to blockchain technology in the <a href="https://www.labri.fr/programmation-reseaux-et-systemes">Progress team</a> at the University of Bordeaux, Bordeaux, France. The two topics I am working on during this thesis are: improving the tolerance of peer sampling protocols to Byzantine attacks in blockchains; finding the occurrence of elements in memory-constrained systems in real time.
 
 I am open to new experiences and opportunities.
