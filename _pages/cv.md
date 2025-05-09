@@ -33,7 +33,7 @@ redirect_from:
 
 <u>Main idea</u>: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains; Finding occurrences of elements in memory-constrained systems in real time. 
 
-My research focuses on designing a **Byzantine fault-tolerant peer sampling protocol** to improve the resilience of distributed systems. 
+My research focuses on designing **Byzantine fault-tolerant peer sampling protocols** to improve the resilience of distributed systems. 
 
 My first contribution is a collaborative protocol that uses SGX-enabled devices to provide a trusted execution environment that enables secure and verifiable collaboration between peers.  
 One of the key achievements of this work is a **60% increase in fault tolerance** compared to existing protocols. Even in the presence of an adversary controlling up to **40% of the system nodes**, our approach effectively limits their impact, ensuring robust and reliable operation.  
