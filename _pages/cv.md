@@ -106,3 +106,4 @@ Teaching
 Service and leadership
 ======
 * 1 hour and half Interview with a group of high school students about my research as part of their program to discover the world of research, june 2024
+* 1 hour and half Interview with a group of L3 students from university of Bordeaux, about my research, april 2025
