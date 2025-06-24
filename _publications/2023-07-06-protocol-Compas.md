@@ -9,7 +9,7 @@ venue: 'Compas'
 comment: 'Poster presentation, held in Annecy, France'
 slidesurl: 'https://djadar.github.io/augustamukam/files/final_poster_Compas.pdf'
 paperurl: 'https://djadar.github.io/augustamukam/files/Compas_2023_resume.pdf'
-citation: 'Augusta Mukam, Joachim Bruneau-Queyreix, Laurent Réveillère. Utilisation de noeuds de confiance pour les protocoles d’échantillonage de pairs tolérants aux attaques byzantines, juillet 2023, Annecy, France.'
+citation: 'Augusta Mukam, Joachim Bruneau-Queyreix, Laurent Réveillère. Utilisation de noeuds de confiance pour les protocoles d’échantillonnage de pairs tolérants aux attaques byzantines, juillet 2023, Annecy, France.'
 ---
 
 La prise en compte de l’existence de nœuds byzantins qui empêchent le bon déroulement des algorithmes

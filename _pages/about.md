@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am passionate about systems programming, low-level programming, machine learning, embedded systems, parallel computing, cloud computing, and distributed systems. I have completed internships and projects in several of these areas.
-
-I am also interested in security, artificial intelligence, software engineering, and network administration.
+I am passionate about systems programming, cloud computing, and distributed systems. I also have interested in Machine learning and security fields. I have completed internships and projects in several of these areas.
 
 I hold an Engineering degree in Computer Science from ENSPY (Yaoundé, Cameroon), and a Master's degree in Cloud and Distributed Systems from Grenoble INP, ENSIMAG (Grenoble, France).
 
