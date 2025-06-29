@@ -105,7 +105,7 @@ Teaching
   
 Service and leadership
 ======
-* Technicien de session à <a href="https://2025.compas-conference.fr/programme/">Compas 2025</a>, juin 2025
+* Technicien de session à <a href="https://2025.compas-conference.fr/programme/">Compas 2025</a>, june 2025
 
 * 1 hour and half Interview with a group of L3 students from university of Bordeaux, about my research, april 2025
 
