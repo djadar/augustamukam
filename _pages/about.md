@@ -15,6 +15,6 @@ Currently, I am pursuing a PhD in cloud computing applied to blockchain technolo
 
 # News
 
-I will complete my PhD in October 2025 and am currently seeking a researcher position in industry or in academic, in the fields of systems, networks, or artificial intelligence.
+I will complete my PhD in December 2025 and am currently seeking a researcher position in industry or in academic, in the fields of systems, networks, or artificial intelligence.
 
 Thank you for your recommendations.
