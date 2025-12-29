@@ -29,7 +29,7 @@ redirect_from:
 
 ## Ph.D in Distributed Systems applied to Blockchains, University of Bordeaux
 
-*2022 – current*
+*2022 – 2025*
 
 <u>Main idea</u>: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains; Finding occurrences of elements in memory-constrained systems in real time. 
 
@@ -44,7 +44,7 @@ Our overall work contributes to the advancement of secure and efficient peer-to-
 
 <u>Supervisors</u>: <a href="https://www.reveillere.fr/">Laurent Réveillère</a> and <a href="https://sites.google.com/view/joachim-bruneau-queyreix/">Joachim Bruneau-Queyreix</a>.
 
-<u>Technical tools</u>: g5k, Anisble, EnosLib, Rust, Go, R language
+<u>Technical tools</u>: g5k, Ansible, EnosLib, Rust, Go, R language
 
 ## Intern, Digital Power Team, Schneider Electric, France  
 
@@ -70,27 +70,47 @@ I modified the notification mechanisms within the QEMU-KVM distributed system. A
 
 Skills
 ======
-* Programming
-  * Rust, Go, C , Python, C++, Java, JavaScript, HTML, CSS, Cuda, R
-  * g5k, Anisble, EnosLib
 
-* IT 
-  * MATLAB, Microsoft office tools, Latex;   MySQL, MariaDB 
-  * Linux: Ubuntu, Kali Linux; Windows:  XP,7,10;   
-  * Yocto, Kas, Meson, Makefile, CMake
+## Programming Languages
+**Systems Programming**: Rust, Go, C, C++
+**Scripting & Analysis**: Python, R
+**Web Development**: JavaScript, HTML, CSS
+**Other**: Java, CUDA
 
-* Professional and personal skills
-  * Scrum and V-cycle methodologies 
-  * Merise, UML, PASSI modeling
-  * Communication, Proactivity, Discipline, Positivity, Adaptability, Focus
+## Infrastructure & DevOps
+**Distributed Systems**: Grid5000 (g5k), EnosLib, Ansible
+**Containerization**: Docker, Kubernetes, Yocto, Kas
+**Build Systems**: Meson, Makefile, CMake
+
+## Databases & Tools
+**Databases**: MySQL, MariaDB
+**Documentation**: LaTeX, Microsoft Office Suite
+**Scientific Computing**: MATLAB
+
+## Operating Systems
+**Linux**: Ubuntu, Kali Linux
+**Windows**: XP, 7, 10
+
+## Methodologies & Modeling
+**Development Methodologies**: Scrum, V-cycle
+**Modeling Languages**: UML, Merise, PASSI
+
+## Professional Skills
+Communication • Proactivity • Discipline • Adaptability • Team Collaboration • Problem-Solving
+
+Awards & Honors
+======
+* **Best Paper Award** - 22nd International Symposium on Network Computing and Applications (NCA 2024), Bertinoro, Italy
+  * Paper: "AUPE: Collaborative Byzantine fault-tolerant peer-sampling"
+  * Recognition for outstanding contribution to Byzantine fault-tolerant distributed systems
 
 Certifications
 ======
 * Programming
-  * Introduction à la programmation orientée objet (en Java) <a href="https://coursera.org/share/0b71608664e57e5d9b466b7568b9b220">Coursera</a> 
+  * Introduction à la programmation orientée objet (en Java) <a href="https://coursera.org/share/0b71608664e57e5d9b466b7568b9b220">Coursera</a>
 * Cloud
   * DevOps Basics for Everyone (IBM CD0115EN)
- <a href="https://courses.edx.org/certificates/72a5629b120744b8a7dbead5be93ef27">edX</a> 
+ <a href="https://courses.edx.org/certificates/72a5629b120744b8a7dbead5be93ef27">edX</a>
   * Introduction to Cloud Infrastructure Technologies (LFS151)
  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/9dac347d-ef17-4f6f-9198-c4939b3e1e99-augusta-mukam-5f2db8d5-afa0-4620-a850-4cb84bec2d6d-certificate.pdf">The Linux Foundation</a> 
 
