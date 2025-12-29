@@ -84,6 +84,15 @@ Skills
   * Merise, UML, PASSI modeling
   * Communication, Proactivity, Discipline, Positivity, Adaptability, Focus
 
+Certifications
+======
+* Programming
+  * Introduction à la programmation orientée objet (en Java) <a href="https://coursera.org/share/0b71608664e57e5d9b466b7568b9b220">Coursera</a> 
+* Cloud
+  * DevOps Basics for Everyone (IBM CD0115EN)
+ <a href="https://courses.edx.org/certificates/72a5629b120744b8a7dbead5be93ef27">edX</a> 
+  * Introduction to Cloud Infrastructure Technologies (LFS151)
+ <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/9dac347d-ef17-4f6f-9198-c4939b3e1e99-augusta-mukam-5f2db8d5-afa0-4620-a850-4cb84bec2d6d-certificate.pdf">The Linux Foundation</a> 
 
 Publications
 ======
@@ -105,6 +114,8 @@ Teaching
   
 Service and leadership
 ======
+* Session chair at <a href="https://sites.google.com/view/wise25-workshop/home">Wise 2025</a>, december 2025
+
 * Session technician at <a href="https://2025.compas-conference.fr/programme/">Compas 2025</a>, june 2025
 
 * 1 hour and half Interview with a group of L3 students from university of Bordeaux, about my research, april 2025
