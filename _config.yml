@@ -35,6 +35,7 @@ author:
   googlescholar    : "https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=HxHY4tYAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-7351-2014"
+  #hal              : "https://hal.science/"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=augusta+mukam"
   researchgate     : "https://www.researchgate.net/profile/Augusta-Mukam-2"
@@ -84,6 +85,8 @@ publication_category:
     title: 'Conference Papers'
   resume:
     title: 'Abstracts'
+  thesis:
+    title: 'Doctorat thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
