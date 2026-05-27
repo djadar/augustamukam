@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<p style="text-decoration:underline;"><a href="https://docs.google.com/document/d/1m4zhpRM_5-rj8YgwfB52hhWrAiGJ3-Iy_BgdmjkH4n4/edit?tab=t.0">Download online CV</a></p>
+<p style="text-decoration:underline;"><a href="https://docs.google.com/document/d/1eBV9cGMhT77Q8T9vqI6Uol3xpqP9QK8dexXHrmt5eeE/edit?usp=sharing">Download online CV</a></p>
 
 {% include base_path %}
 

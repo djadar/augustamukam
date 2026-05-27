@@ -7,8 +7,8 @@ excerpt: 'Les blockchains sont des systèmes distribués avec des contraintes pr
 date: 2023-07-06
 venue: 'Compas'
 comment: 'Poster presentation, held in Annecy, France'
-slidesurl: 'https://djadar.github.io/augustamukam/files/final_poster_Compas.pdf'
-paperurl: 'https://djadar.github.io/augustamukam/files/Compas_2023_resume.pdf'
+slidesurl: 'https://research.amukam.com/files/final_poster_Compas.pdf'
+paperurl: 'https://research.amukam.com/files/Compas_2023_resume.pdf'
 citation: 'Augusta Mukam, Joachim Bruneau-Queyreix, Laurent Réveillère. Utilisation de noeuds de confiance pour les protocoles d’échantillonnage de pairs tolérants aux attaques byzantines, juillet 2023, Annecy, France.'
 ---
 

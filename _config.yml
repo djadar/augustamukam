@@ -12,7 +12,7 @@ title                    : "Augusta Mukam"
 title_separator          : "-"
 name                     : &name "Augusta Mukam"
 description              : &description "PhD researcher specializing in Byzantine fault-tolerant distributed systems and blockchain technology at University of Bordeaux. Research on peer sampling protocols, systems programming, and cloud computing."
-url                      : https://djadar.github.io/augustamukam/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://research.amukam.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "git@github.com:djadar/augustamukam.git"
 
