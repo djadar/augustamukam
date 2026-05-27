@@ -11,7 +11,7 @@ I am passionate about systems programming, cloud computing, and distributed syst
 
 I hold an Engineering degree in Computer Science from ENSPY (Yaoundé, Cameroon), and a Master's degree in Cloud and Distributed Systems from Grenoble INP, ENSIMAG (Grenoble, France).
 
-Currently, I am completing my PhD in cloud computing applied to blockchain technology within the <a href="https://www.labri.fr/programmation-reseaux-et-systemes">Progress team</a> at the University of Bordeaux (France). My research focuses on two main topics: enhancing the Byzantine fault tolerance of peer sampling protocols in blockchain systems, and real-time frequency estimation of elements in adversarial memory-constrained environments.
+I hold a PhD in distributed systems applied to blockchain technology, defended in April 2026 within the <a href="https://www.labri.fr/programmation-reseaux-et-systemes">Progress team</a> at the University of Bordeaux (France). My research focused on two main topics: enhancing the Byzantine fault tolerance of peer sampling protocols in blockchain systems, and real-time frequency estimation of elements in adversarial memory-constrained environments.
 
 ## Recent Achievements
 
@@ -29,7 +29,7 @@ My doctoral research has produced Byzantine fault-tolerant peer sampling protoco
 
 ## News
 
-**Seeking Opportunities**: I will complete my PhD in December 2025 and am currently seeking researcher positions in industry or academia, in the fields of systems, networks, or artificial intelligence.
+**Seeking Opportunities**: I have completed my PhD (defended April 2026) and am currently seeking researcher positions in industry or academia, in the fields of systems, networks, or artificial intelligence.
 
 **Recent Service**:
 - Session chair at <a href="https://sites.google.com/view/wise25-workshop/home">Wise 2025</a> (December 2025)

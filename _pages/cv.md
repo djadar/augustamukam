@@ -29,7 +29,7 @@ redirect_from:
 
 ## Ph.D in Distributed Systems applied to Blockchains, University of Bordeaux
 
-*2022 – 2025*
+*2022 – 2026*
 
 <u>Main idea</u>: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains; Finding occurrences of elements in memory-constrained systems in real time. 
 
