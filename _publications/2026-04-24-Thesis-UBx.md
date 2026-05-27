@@ -9,12 +9,9 @@ However, in open, adversarial environments such as public blockchain networks, B
 This thesis addresses the problem of Byzantine-resilient gossip-based peer sampling and focuses on proposing scalable, memory-efficient solutions.'
 date: 2026-04-24
 venue: 'University of Bordeaux'
-award: 'Best Paper award'
-comment: 'Held in Bertinoro, Italy'
 slidesurl: 'https://djadar.github.io/augustamukam/files/slides-240426.pdf'
 paperurl: 'https://djadar.github.io/augustamukam/files/rapport_final-220526.pdf'
-citation: 'waiting...
-'
+citation: 'Augusta Mukam. (2026). &quot;Byzantine-Resilient Peer Sampling for Large-Scale Distributed Systems.&quot; PhD Thesis, University of Bordeaux.'
 ---
 
 
