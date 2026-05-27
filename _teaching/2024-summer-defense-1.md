@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Tutoring"
 collection: teaching
 type: "Internship tutoring"
 permalink: /teaching/2024-summer-defense-1

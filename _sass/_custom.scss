@@ -1,150 +1,315 @@
 /* ==========================================================================
-   CUSTOM OVERRIDES — Modern Academic (deep blue theme)
+   MIDNIGHT DARK THEME
    ========================================================================== */
 
-/* --- Base typography: tighter tracking for Inter --- */
+/* --- Base --- */
 body {
-  font-weight: 400;
+  background-color: #0f1117;
+  color: #e2e8f0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5, h6 {
+  color: #e2e8f0;
   letter-spacing: -0.02em;
 }
 
-/* --- Masthead: blue accent border + subtle shadow --- */
+a {
+  color: #00b4d8;
+  transition: color 0.15s ease;
+}
+
+hr {
+  border-top-color: #2d3748;
+}
+
+blockquote {
+  border-left-color: #00b4d8;
+  background: rgba(0, 180, 216, 0.06);
+  border-radius: 0 6px 6px 0;
+  color: #94a3b8;
+  padding: 0.75em 1.2em;
+}
+
+/* --- Masthead --- */
 .masthead {
-  border-bottom: 2px solid $primary-color;
-  box-shadow: 0 2px 10px rgba(42, 100, 150, 0.08);
+  background: #0d1117 !important;
+  border-bottom: 2px solid #00b4d8;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.5);
 }
 
-/* Site title: bolder, cleaner */
-.greedy-nav .visible-links li:first-child a {
-  font-weight: 700;
-  letter-spacing: -0.01em;
-  color: $primary-color;
-}
+.greedy-nav {
+  background: #0d1117;
 
-/* Nav links: medium weight */
-.greedy-nav a {
-  font-weight: 500;
-  font-size: 0.9em;
-  letter-spacing: 0.01em;
-}
+  a {
+    color: #cbd5e1;
+    font-weight: 500;
+    font-size: 0.9em;
+    letter-spacing: 0.01em;
 
-/* Nav hover underline: use primary blue and slightly thicker */
-.greedy-nav .visible-links a:before {
-  background: $primary-color;
-  height: 2px;
-}
-
-/* --- Author sidebar: profile card feel --- */
-.author__avatar img {
-  border: 2px solid $primary-color;
-  box-shadow: 0 4px 14px rgba(42, 100, 150, 0.2);
-  padding: 3px;
-}
-
-.sidebar .author__name {
-  color: $primary-color;
-  font-weight: 700;
-  font-size: 1.05em;
-  letter-spacing: -0.01em;
-}
-
-.author__bio {
-  font-size: 0.82em;
-  line-height: 1.65;
-  color: $dark-gray;
-}
-
-/* Social links: icon tinted blue, smooth hover */
-.author__urls a {
-  font-size: 0.88em;
-
-  i, .fab, .fas, .far, .ai {
-    color: $primary-color;
-    opacity: 0.7;
-    transition: opacity 0.15s ease;
+    &:hover {
+      color: #00b4d8;
+    }
   }
 
-  &:hover {
-    text-decoration: none;
-    color: $primary-color;
+  /* Site title */
+  .visible-links li:first-child a {
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: #00b4d8;
+  }
 
-    i, .fab, .fas, .far, .ai {
-      opacity: 1;
+  /* Hover underline */
+  .visible-links a:before {
+    background: #00b4d8;
+    height: 2px;
+  }
+
+  /* Overflow button */
+  button {
+    background-color: #00b4d8;
+    color: #0f1117;
+  }
+
+  /* Mobile dropdown */
+  .hidden-links {
+    background: #161b27;
+    border-color: #2d3748;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
+
+    &:before { border-color: #2d3748 transparent; }
+    &:after  { border-color: #161b27 transparent; }
+
+    li {
+      border-bottom-color: #2d3748;
+    }
+
+    a {
+      color: #cbd5e1;
+
+      &:hover {
+        background: #1e2a3b;
+        color: #00b4d8;
+      }
     }
   }
 }
 
-/* Follow button: styled in blue */
-.btn--inverse {
-  color: $primary-color !important;
-  border: 1px solid $primary-color !important;
-  background-color: #fff;
-  border-radius: $border-radius;
+/* --- Author / Sidebar --- */
+.author__avatar img {
+  border: 2px solid #00b4d8;
+  box-shadow: 0 4px 16px rgba(0, 180, 216, 0.25);
+  padding: 3px;
+}
 
-  &:hover {
-    background-color: $primary-color !important;
-    border-color: $primary-color !important;
-    color: #fff !important;
+.sidebar .author__name {
+  color: #00b4d8;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  color: #94a3b8;
+  font-size: 0.82em;
+  line-height: 1.65;
+}
+
+.author__desktop {
+  color: #64748b;
+}
+
+/* Social links */
+.author__urls {
+  /* mobile dropdown */
+  background: #161b27;
+  border-color: #2d3748;
+
+  &:before { border-color: #2d3748 transparent; }
+  &:after  { border-color: #161b27 transparent; }
+
+  @include breakpoint($large) {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  a {
+    color: #94a3b8;
+    font-size: 0.88em;
+
+    i, .fab, .fas, .far, .ai {
+      color: #00b4d8;
+      opacity: 0.75;
+      transition: opacity 0.15s ease;
+    }
+
+    &:hover {
+      color: #00b4d8;
+      text-decoration: none;
+
+      i, .fab, .fas, .far, .ai {
+        opacity: 1;
+      }
+    }
   }
 }
 
-/* --- Page content: headings with blue accent --- */
-.page__content h2 {
-  border-bottom: 2px solid $primary-color;
-  padding-bottom: 0.4em;
-}
-
-/* h3 subtle blue tint */
-.page__content h3 {
-  color: mix(#000, $primary-color, 25%);
-}
-
-/* --- Archive items: publication/talk lists --- */
-.archive__item-title a {
-  text-decoration: none;
-  color: $primary-color;
+/* Follow button */
+.btn--inverse {
+  color: #00b4d8 !important;
+  border: 1px solid #00b4d8 !important;
+  background-color: transparent;
 
   &:hover {
-    color: mix(#000, $primary-color, 25%);
+    background-color: #00b4d8 !important;
+    border-color: #00b4d8 !important;
+    color: #0f1117 !important;
+  }
+}
+
+/* --- Page content --- */
+.page__content {
+  h2 {
+    color: #e2e8f0;
+    border-bottom: 2px solid #00b4d8;
+    padding-bottom: 0.4em;
+  }
+
+  h3 {
+    color: #90cfe0;
+  }
+
+  p, li, dl {
+    color: #d1d9e0;
+  }
+
+  a {
+    color: #00b4d8;
+
+    &:hover {
+      color: #67d6e8;
+    }
+  }
+
+  /* inline code */
+  p > code, a > code, li > code, td > code {
+    background: #1a2035;
+    border-color: #2d3748;
+    color: #90cfe0;
+  }
+
+  /* blockquote citation */
+  blockquote + .small {
+    color: #64748b;
+  }
+}
+
+/* --- Archive (publications, talks, teaching) --- */
+.archive__item-title a {
+  color: #00b4d8;
+  text-decoration: none;
+
+  &:hover {
+    color: #67d6e8;
   }
 }
 
 .archive__item-excerpt {
+  color: #94a3b8;
   font-size: 0.85em;
   line-height: 1.65;
-  color: $gray;
 }
 
-/* --- Footer: lighter background, blue top border --- */
-.page__footer {
-  background-color: #f5f8fc;
-  border-top: 2px solid $primary-color;
+/* --- Tables --- */
+table {
+  color: #d1d9e0;
 
-  a {
-    color: $primary-color;
+  th {
+    background: #161b27;
+    color: #e2e8f0;
+    border-color: #2d3748;
+  }
+
+  td {
+    border-color: #2d3748;
+  }
+
+  tr:nth-child(even) td {
+    background: #161b27;
   }
 }
 
-/* --- Blockquotes: blue left border --- */
-blockquote {
-  border-left-color: $primary-color;
-  background: mix(#fff, $primary-color, 96%);
-  border-radius: 0 $border-radius $border-radius 0;
-  padding: 0.75em 1.2em;
+/* --- TOC --- */
+.toc {
+  background-color: #161b27;
+  border-color: #2d3748;
+
+  .nav__title {
+    background: #00b4d8;
+    color: #0f1117;
+  }
 }
 
-/* --- Pagination active: blue --- */
-.pagination li a.current {
-  background: $primary-color;
-  border-color: $primary-color;
+.toc__menu a {
+  color: #94a3b8;
+  border-bottom-color: #2d3748;
+
+  &:hover {
+    color: #e2e8f0;
+    background: #1e2a3b;
+  }
 }
 
-/* --- Smooth link transitions --- */
-a {
-  transition: color 0.15s ease;
+/* --- Pagination --- */
+.pagination li a {
+  border-color: #2d3748;
+  color: #94a3b8;
+  background: transparent;
+
+  &:hover {
+    color: #00b4d8;
+  }
+
+  &.current {
+    background: #00b4d8;
+    border-color: #00b4d8;
+    color: #0f1117;
+  }
+}
+
+/* --- Footer --- */
+.page__footer {
+  background-color: #0d1117;
+  border-top: 2px solid #00b4d8;
+  color: #64748b;
+
+  a {
+    color: #00b4d8;
+
+    &:hover {
+      color: #67d6e8;
+    }
+  }
+
+  .fas, .fab, .far, .fal {
+    color: #64748b;
+  }
+}
+
+/* --- Breadcrumbs --- */
+.breadcrumbs ol {
+  color: #64748b;
+}
+
+/* --- Page meta (date, venue on publications) --- */
+.page__meta {
+  color: #64748b;
+}
+
+/* --- Notices --- */
+.notice {
+  background-color: #161b27;
+  border-color: #2d3748;
+  color: #d1d9e0;
 }

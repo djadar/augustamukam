@@ -58,21 +58,21 @@ $sidebar-link-max-width     : 250px;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$light-gray                 : #2d3748;
+$lighter-gray               : #1e2432;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #0f1117;
+$background-color           : #0f1117;
+$code-background-color      : #1a2035;
+$code-background-color-dark : #0d1117;
+$text-color                 : #e2e8f0;
+$border-color               : #2d3748;
 
-$primary-color              : #2a6496;
+$primary-color              : #00b4d8;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #2a6496;
+$info-color                 : #00b4d8;
 
 /* brands */
 $behance-color              : #1769FF;
