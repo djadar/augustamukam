@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<p style="text-decoration:underline;"><a href="https://docs.google.com/document/d/1eBV9cGMhT77Q8T9vqI6Uol3xpqP9QK8dexXHrmt5eeE/edit?usp=sharing">Download online CV</a></p>
+<p style="text-decoration:underline;"><a href="https://research.amukam.com/files/Augusta_CV.pdf">Download online CV</a></p>
 
 {% include base_path %}
 
