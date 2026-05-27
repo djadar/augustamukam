@@ -86,7 +86,7 @@ publication_category:
   resume:
     title: 'Abstracts'
   thesis:
-    title: 'Doctorat thesis'
+    title: 'Doctoral thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

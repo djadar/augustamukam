@@ -23,7 +23,7 @@ Our paper "AUPE: Collaborative Byzantine fault-tolerant peer-sampling" received 
 My doctoral research has produced Byzantine fault-tolerant peer sampling protocols that significantly improve the resilience of distributed systems. Key contributions include:
 
 - **Enhanced Security**: Collaborative protocol using SGX-enabled devices for trusted execution environments
-- **Superior Resilience**: Near-perfect fault tolerance even with 26% malicious nodes
+- **Resilience improvement**: Near-perfect fault tolerance even with 26% malicious nodes
 - **Scalability**: Hash-based techniques for efficient tracking with minimal memory overhead
 - **Real-world Applications**: Applicable to blockchain networks, decentralized computing, and large-scale distributed systems
 
