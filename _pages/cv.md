@@ -31,7 +31,7 @@ redirect_from:
 
 *2022 – 2026*
 
-<p style="text-decoration:underline;"><a href="https://research.amukam.com/files/rapport_final-220526.pdf">Link to my thesis manuscript</a></p>
+<p style="text-decoration:underline;"><a href="https://research.amukam.com/files/Thesis_Manuscript.pdf">Link to my thesis manuscript</a></p>
 
 <u>Main idea</u>: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains; Finding occurrences of elements in memory-constrained systems in real time. 
 
