@@ -31,6 +31,8 @@ redirect_from:
 
 *2022 – 2026*
 
+<p style="text-decoration:underline;"><a href="https://research.amukam.com/files/rapport_final-220526.pdf">Link to my thesis manuscript</a></p>
+
 <u>Main idea</u>: Enhancing tolerance of peer sampling protocols to Byzantine attacks in Blockchains; Finding occurrences of elements in memory-constrained systems in real time. 
 
 My research focuses on designing **Byzantine fault-tolerant peer sampling protocols** to improve the resilience of distributed systems. 
