@@ -10,7 +10,7 @@ This thesis addresses the problem of Byzantine-resilient gossip-based peer sampl
 date: 2026-04-24
 venue: 'University of Bordeaux'
 slidesurl: 'https://research.amukam.com/files/slides-240426.pdf'
-paperurl: 'https://research.amukam.com/files/rapport_final-220526.pdf'
+paperurl: 'https://research.amukam.com/files/Thesis_Manuscript.pdf'
 citation: 'Augusta Mukam. (2026). &quot;Byzantine-Resilient Peer Sampling for Large-Scale Distributed Systems.&quot; PhD Thesis, University of Bordeaux.'
 ---
 
