@@ -307,6 +307,26 @@ table {
   color: #64748b;
 }
 
+/* --- Collapsible achievements --- */
+.page__content details {
+  margin: 1em 0;
+
+  summary {
+    cursor: pointer;
+    color: #00b4d8;
+    font-weight: 600;
+    outline: none;
+
+    &:hover {
+      color: #67d6e8;
+    }
+  }
+
+  &[open] summary {
+    margin-bottom: 0.8em;
+  }
+}
+
 /* --- Notices --- */
 .notice {
   background-color: #161b27;

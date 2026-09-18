@@ -18,6 +18,9 @@ I hold a PhD in distributed systems applied to blockchain technology, defended i
 **New accepted paper** - NCA 2026 (Syracuse, Italy)
 Our paper "Hopper: Bounded-Memory Collaborative Debiasing for Byzantine-Tolerant Peer Sampling" is accepted at the 24nd International Symposium on Network Computing and Applications. This work presents Hopper, a bounded-memory debiasing protocol for Byzantine peer sampling.
 
+<details markdown="1">
+<summary>Older achievements</summary>
+
 **Thesis defense** - LaBri, Bordeaux
 I'm thrilled to announce that I successfully defended my PhD in Distributed Systems at the Université de Bordeaux (France) in April 2026.
 My thesis, titled "Byzantine-Resilient Peer Sampling for Large-Scale Distributed Systems," was defended in front of a jury composed of Dr. Sonia Ben Mokhtar, Pr. David Bromberg, Pr. patricia thebault, Dr. Léo Mendiboure, alongside my supervisors Pr. Laurent Réveillère and Dr. Joachim Bruneau-Queyreix.
@@ -25,6 +28,8 @@ My thesis addresses a fundamental challenge in open, adversarial networks: how t
 
 **Best Paper Award** - NCA 2024 (Bertinoro, Italy)
 Our paper "AUPE: Collaborative Byzantine fault-tolerant peer-sampling" received the Best Paper Award at the 22nd International Symposium on Network Computing and Applications. This work demonstrates a **60% increase in fault tolerance** compared to existing protocols, maintaining robust operation even when adversaries control up to 40% of system nodes.
+
+</details>
 
 ## Research Impact
 
