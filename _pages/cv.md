@@ -27,6 +27,15 @@ redirect_from:
 
 # Professional experience
 
+## Fellow Teaching and Research Associate, University of Bordeaux
+
+*2026*
+
+M1 : Programming Project
+L3 : Compilation, Functional Programming
+L2 : Algorithms for Tree Data Structures, 
+L1 : Basic Principles of Algorithms and Programming 
+
 ## Ph.D in Distributed Systems applied to Blockchains, University of Bordeaux
 
 *2022 – 2026*
