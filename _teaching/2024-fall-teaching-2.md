@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (2024)"
 collection: teaching
 type: "Pratical courses"
 permalink: /teaching/2024-fall-teaching-2

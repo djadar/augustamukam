@@ -1,14 +1,14 @@
 ---
-title: "Fellow Teaching Assistant (Ater)"
+title: "Fellow Teaching Assistant (Ater) - 2026/2027"
 collection: teaching
-type: "168 hours of computer science courses"
-permalink: /teaching/2024-fall-teaching-2
+type: "88 hours for semester 1"
+permalink: /teaching/2026-ater-teaching
 venue: "UF Info, University of Bordeaux"
-date: 2026-01-20
+date: 2026-09-01
 location: "Talence, France"
 ---
 
 Courses:
-* L3 : Compilation (32 hours)
-* L2 : Algorithms for Tree Data Structures (56 hours)
-* M1 : Programming Project (34 hours)
+* L3 : Functional Programming
+* L1 : Basic Principles of Algorithms and Programming 
+...
